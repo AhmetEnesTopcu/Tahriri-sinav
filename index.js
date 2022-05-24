@@ -17,10 +17,10 @@ function randomm(){
     let r1 = parseInt(document.forms["myform"]["first"].value);
     let r2 = parseInt(document.forms["myform"]["second"].value);
 
-    if(r1<=0 || r1>101 || isNaN(r1)){
+    if(r1<=0 || r1>115 || isNaN(r1)){
         r1 = 1;
     }
-    if(r2<=0 || r2>101 || isNaN(r2)){
+    if(r2<=0 || r2>115 || isNaN(r2)){
         r2 = 101;
     }
 
