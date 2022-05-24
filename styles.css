@@ -1,0 +1,24 @@
+.f{
+    text-align: center;
+}
+
+.d{
+    margin: 0 auto;
+}
+
+.d1{
+    margin-right: 0;
+}
+
+.d2{
+    margin-left: 0;
+}
+
+.imgg{
+    display: flex;
+    justify-content: center;
+}
+
+.answer{
+    text-align: center;
+}
